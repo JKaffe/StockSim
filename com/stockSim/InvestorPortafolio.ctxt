@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InvestorPortafolio
+comment1.params=credit
+comment1.target=InvestorPortafolio(float)
+comment2.params=stock
+comment2.target=boolean\ contains(stocks.Stock)
+comment3.params=stock\ amountToAdd
+comment3.target=void\ buy(stocks.Stock,\ int)
+comment4.params=stock\ amountToSub
+comment4.target=void\ sell(stocks.Stock,\ int)
+comment5.params=
+comment5.target=float\ getCredit()
+comment6.params=stock
+comment6.target=int\ getAmount(stocks.Stock)
+comment7.params=
+comment7.target=java.util.Map\ getValues()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

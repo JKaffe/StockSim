@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Market
+comment1.params=stock
+comment1.target=void\ add(stocks.Stock)
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=stocks.Stock[]\ getStocks()
+numComments=4

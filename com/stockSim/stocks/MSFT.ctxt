@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MSFT
+comment1.params=
+comment1.target=MSFT()
+comment2.params=
+comment2.target=MSFT\ get()
+comment3.params=
+comment3.target=void\ subscribe()
+comment4.params=
+comment4.target=double\ getInitValue()
+numComments=5

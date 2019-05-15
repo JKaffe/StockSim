@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TransactionLogger
+comment1.params=fileName
+comment1.target=TransactionLogger(java.lang.String)
+numComments=2

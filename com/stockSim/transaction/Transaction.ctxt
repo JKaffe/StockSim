@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=stock\ amount\ portafolio
+comment1.target=Transaction(com.stockSim.stocks.Stock,\ int,\ com.stockSim.InvestorPortafolio)
+comment2.params=
+comment2.target=java.util.concurrent.Future\ submitForExecution()
+comment3.params=time
+comment3.target=void\ initiatedAt(java.time.LocalDateTime)
+comment4.params=
+comment4.target=com.stockSim.stocks.Stock\ getStock()
+comment5.params=
+comment5.target=com.stockSim.InvestorPortafolio\ getPortafolio()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

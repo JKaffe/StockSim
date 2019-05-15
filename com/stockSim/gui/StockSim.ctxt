@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StockSim
+comment1.params=market\ portafolio
+comment1.target=StockSim(com.stockSim.Market,\ com.stockSim.InvestorPortafolio)
+comment2.params=we
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=3

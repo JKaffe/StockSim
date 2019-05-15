@@ -1,0 +1,2 @@
+#/bin/bash
+echo $(ls | sed -n '/^d/p' | awk '{print $8}' | sed '/\.\.*/d')

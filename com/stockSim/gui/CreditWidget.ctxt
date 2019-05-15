@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CreditWidget
+comment1.params=portafolio
+comment1.target=CreditWidget(com.stockSim.InvestorPortafolio)
+comment2.params=
+comment2.target=void\ update()
+numComments=3

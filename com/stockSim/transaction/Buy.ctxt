@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Buy
+comment1.params=stock\ amount\ portafolio
+comment1.target=Buy(com.stockSim.stocks.Stock,\ int,\ com.stockSim.InvestorPortafolio)
+comment2.params=
+comment2.target=Transaction\ call()
+numComments=3

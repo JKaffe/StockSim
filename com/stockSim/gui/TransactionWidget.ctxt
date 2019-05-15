@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransactionWidget
+comment1.params=stock\ portafolio
+comment1.target=TransactionWidget(com.stockSim.stocks.Stock,\ com.stockSim.InvestorPortafolio)
+comment2.params=
+comment2.target=void\ updateStockLabel()
+comment3.params=
+comment3.target=void\ updateCostLabel()
+comment4.params=
+comment4.target=void\ updateAmount()
+comment5.params=
+comment5.target=int\ getEnteredAmount()
+numComments=6

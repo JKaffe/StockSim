@@ -1,0 +1,26 @@
+#BlueJ package file
+objectbench.height=141
+objectbench.width=936
+package.divider.horizontal=0.6
+package.divider.vertical=0.8384279475982532
+package.editor.height=761
+package.editor.width=830
+package.editor.x=673
+package.editor.y=263
+package.frame.height=1018
+package.frame.width=960
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=62
+target1.name=stockSim
+target1.type=PackageTarget
+target1.width=80
+target1.x=180
+target1.y=10
